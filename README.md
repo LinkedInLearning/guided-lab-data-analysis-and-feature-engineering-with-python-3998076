@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Guided Lab: Data Analysis and Feature Engineering with Python
+This is the repository for the LinkedIn Learning course `Guided Lab: Data Analysis and Feature Engineering with Python`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
