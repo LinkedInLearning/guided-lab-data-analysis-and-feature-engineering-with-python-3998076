@@ -5,6 +5,8 @@ This is the repository for the LinkedIn Learning course `Guided Lab: Data Analys
 
 ## Course Description
 
+This text-based course focuses on a real-world use case scenario to guide you through cleaning data, analyzing data, and building and testing a model that can detect fraudulent financial transactions. Instructor Deepak Goyal takes you through an end-to-end project to help you understand how to design high-level architecture for the project. After defining the high-level solution, Deepak takes you through the steps of how to implement it fully.
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -32,17 +34,17 @@ To resolve this issue:
 
 ## Instructor
 
-Instructor name
+Deepak Goyal
 
-Instructor description
+Azure Cloud Solution Architect
 
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/deepak-goyal?u=104).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/guided-lab-data-analysis-and-feature-engineering-with-python
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQHRxFRch4P_Bw/learning-public-crop_675_1200/B4DZWXDrA5HIAY-/0/1741996077803?e=2147483647&v=beta&t=bkpfS2Qd8wZQ0Nd6lWtgIzUDNSDcH95gI03oiKpsBMY
 
